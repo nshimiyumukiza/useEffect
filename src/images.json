@@ -1,0 +1,17 @@
+[
+    {
+        "src":"/images/frend.png",
+        "alt":"frend",
+        "tittle":"my freind"
+    },
+    {
+        "src":"/images/student.png",
+        "alt":"student",
+        "tittle":"this is student"
+    },
+    {
+        "src":"/images/wotching.png",
+        "alt":"see",
+        "tittle":"movei"
+    }
+]
